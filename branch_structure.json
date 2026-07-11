@@ -1,0 +1,15 @@
+{
+  "default_branch": "aslimatic",
+  "branches": [
+    "aslimatic",
+    "main"
+  ],
+  "parent": {
+    "aslimatic": null,
+    "main": "aslimatic"
+  },
+  "order": [
+    "aslimatic",
+    "main"
+  ]
+}
